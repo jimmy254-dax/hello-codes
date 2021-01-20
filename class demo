@@ -1,0 +1,7 @@
+echo "# hello-codes" >> 
+git init
+git add hello.md
+git commit -m "hello world"
+git remote add origin https://github.com/jimmy254-dax/hello-codes.git
+git push -u origin main
+g
